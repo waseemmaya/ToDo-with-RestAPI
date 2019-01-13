@@ -1,6 +1,6 @@
 # ToDo-with-RestAPI
 
 
-MERN APP
+Simple MERN To Do App
 
 I will provide instruction to run this app later.
